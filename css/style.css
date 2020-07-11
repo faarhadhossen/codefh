@@ -1,0 +1,89 @@
+body{
+    background-color: #E5E5E5;
+}
+#header{
+    background-color: #562EFF;
+}
+
+#navigation{
+    max-width: 930px;
+    margin: auto;
+}
+
+.logo-name{
+    font-size: 24px;
+}
+
+.profile-img{
+    width: 51px;
+    height: 51px;
+}
+
+.custom-link{
+    color: #fff;
+  }
+.custom-link:hover,
+.custom-link:focus {
+    text-decoration: none;
+}
+
+main{
+    max-width: 870px;
+    margin: 0 auto;
+    background-color: #fff;
+    margin-top: 50px;
+}
+
+h2{
+    color: #333;
+}
+h5{
+    color: #5e5e5e;
+}
+
+a:hover,
+a:focus{
+    text-decoration: none;
+
+}
+
+
+#blogs img{
+    width: 100%;
+}
+
+
+.card-footer img{
+    width: 15px;
+}
+
+.icon-right{
+    background-color:  #FEE5DF;
+    border-radius: 5px;
+    height: 30px;
+    width: 80px;
+    padding-bottom: 10px;
+
+}
+
+.card,.card-deck, .card-footer{
+    border: none;
+}
+
+.card-footer{
+    background-color: #fff;
+}
+
+.card{
+    box-shadow: 2px 2px 5px lightgray;
+    margin-top: 20px;
+}
+
+
+footer{
+    background-color: #562EFF;
+    color: #fff;
+}
+
+
+ 
